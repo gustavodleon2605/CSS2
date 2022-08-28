@@ -1,0 +1,32 @@
+.image {
+	display: flex;
+	justify-content: center;
+}
+
+img {
+	border-radius: 8px;
+}
+
+.bio {
+	display: flex;
+	justify-content: center;
+	color: red;
+}
+
+.language {
+	color: green;
+}
+
+body {
+	background: lightgoldenrodyellow;
+}
+
+.contact {
+	font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	color:blue;
+}
+
+.contactInfo {
+	background: lightcoral;
+	color:white;
+}
